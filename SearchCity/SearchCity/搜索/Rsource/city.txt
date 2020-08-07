@@ -1,0 +1,1482 @@
+[
+  {
+    "A" : [
+      {
+        "name" : "阿坝藏族羌族自治州",
+        "pinyin" : "a ba cang zu qiang zu zi zhi zhou"
+      },
+      {
+        "name" : "阿克苏地区",
+        "pinyin" : "a ke su de qu"
+      },
+      {
+        "name" : "阿拉善盟",
+        "pinyin" : "a la shan meng"
+      },
+      {
+        "name" : "阿勒泰地区",
+        "pinyin" : "a lei tai de qu"
+      },
+      {
+        "name" : "阿里地区",
+        "pinyin" : "a li de qu"
+      },
+      {
+        "name" : "安康市",
+        "pinyin" : "an kang shi"
+      },
+      {
+        "name" : "安庆市",
+        "pinyin" : "an qing shi"
+      },
+      {
+        "name" : "鞍山市",
+        "pinyin" : "an shan shi"
+      },
+      {
+        "name" : "安顺市",
+        "pinyin" : "an shun shi"
+      },
+      {
+        "name" : "安阳市",
+        "pinyin" : "an yang shi"
+      },
+      {
+        "name" : "澳门行政区",
+        "pinyin" : "ao men xing zheng qu"
+      }
+    ]
+  },
+  {
+    "B" : [
+      {
+        "name" : "白城市",
+        "pinyin" : "bai cheng shi"
+      },
+      {
+        "name" : "百色市",
+        "pinyin" : "bai se shi"
+      },
+      {
+        "name" : "白山市",
+        "pinyin" : "bai shan shi"
+      },
+      {
+        "name" : "白银市",
+        "pinyin" : "bai yin shi"
+      },
+      {
+        "name" : "蚌埠市",
+        "pinyin" : "bang bu shi"
+      },
+      {
+        "name" : "保定市",
+        "pinyin" : "bao ding shi"
+      },
+      {
+        "name" : "宝鸡市",
+        "pinyin" : "bao ji shi"
+      },
+      {
+        "name" : "保山市",
+        "pinyin" : "bao shan shi"
+      },
+      {
+        "name" : "包头市",
+        "pinyin" : "bao tou shi"
+      },
+      {
+        "name" : "巴彦淖尔市",
+        "pinyin" : "ba yan nao er shi"
+      },
+      {
+        "name" : "巴音郭楞蒙古自治州",
+        "pinyin" : "ba yin guo leng meng gu zi zhi zhou"
+      },
+      {
+        "name" : "巴中市",
+        "pinyin" : "ba zhong shi"
+      },
+      {
+        "name" : "北海市",
+        "pinyin" : "bei hai shi"
+      },
+      {
+        "name" : "北京市",
+        "pinyin" : "bei jing shi"
+      },
+      {
+        "name" : "本溪市",
+        "pinyin" : "ben xi shi"
+      },
+      {
+        "name" : "毕节市",
+        "pinyin" : "bi jie shi"
+      },
+      {
+        "name" : "滨州市",
+        "pinyin" : "bin zhou shi"
+      },
+      {
+        "name" : "博尔塔拉蒙古自治州",
+        "pinyin" : "bo er ta la meng gu zi zhi zhou"
+      },
+      {
+        "name" : "亳州市",
+        "pinyin" : "bo zhou shi"
+      }
+    ]
+  },
+  {
+    "C" : [
+      {
+        "name" : "沧州市",
+        "pinyin" : "cang zhou shi"
+      },
+      {
+        "name" : "常德市",
+        "pinyin" : "chang de shi"
+      },
+      {
+        "name" : "昌都市",
+        "pinyin" : "chang du shi"
+      },
+      {
+        "name" : "昌吉回族自治州",
+        "pinyin" : "chang ji hui zu zi zhi zhou"
+      },
+      {
+        "name" : "常州市",
+        "pinyin" : "chang zhou shi"
+      },
+      {
+        "name" : "朝阳市",
+        "pinyin" : "chao yang shi"
+      },
+      {
+        "name" : "潮州市",
+        "pinyin" : "chao zhou shi"
+      },
+      {
+        "name" : "承德市",
+        "pinyin" : "cheng de shi"
+      },
+      {
+        "name" : "成都市",
+        "pinyin" : "cheng du shi"
+      },
+      {
+        "name" : "郴州市",
+        "pinyin" : "chen zhou shi"
+      },
+      {
+        "name" : "赤峰市",
+        "pinyin" : "chi feng shi"
+      },
+      {
+        "name" : "池州市",
+        "pinyin" : "chi zhou shi"
+      },
+      {
+        "name" : "重庆市",
+        "pinyin" : "chong qing shi"
+      },
+      {
+        "name" : "崇左市",
+        "pinyin" : "chong zuo shi"
+      },
+      {
+        "name" : "楚雄彝族自治州",
+        "pinyin" : "chu xiong yi zu zi zhi zhou"
+      },
+      {
+        "name" : "滁州市",
+        "pinyin" : "chu zhou shi"
+      }
+    ]
+  },
+  {
+    "D" : [
+      {
+        "name" : "大连市",
+        "pinyin" : "da lian shi"
+      },
+      {
+        "name" : "大理白族自治州",
+        "pinyin" : "da li bai zu zi zhi zhou"
+      },
+      {
+        "name" : "丹东市",
+        "pinyin" : "dan dong shi"
+      },
+      {
+        "name" : "儋州市",
+        "pinyin" : "dan zhou shi"
+      },
+      {
+        "name" : "大庆市",
+        "pinyin" : "da qing shi"
+      },
+      {
+        "name" : "大同市",
+        "pinyin" : "da tong shi"
+      },
+      {
+        "name" : "大兴安岭地区",
+        "pinyin" : "da xing an ling de qu"
+      },
+      {
+        "name" : "达州市",
+        "pinyin" : "da zhou shi"
+      },
+      {
+        "name" : "德宏傣族景颇族自治州",
+        "pinyin" : "de hong dai zu jing po zu zi zhi zhou"
+      },
+      {
+        "name" : "德阳市",
+        "pinyin" : "de yang shi"
+      },
+      {
+        "name" : "德州市",
+        "pinyin" : "de zhou shi"
+      },
+      {
+        "name" : "定西市",
+        "pinyin" : "ding xi shi"
+      },
+      {
+        "name" : "迪庆藏族自治州",
+        "pinyin" : "di qing cang zu zi zhi zhou"
+      },
+      {
+        "name" : "东莞市",
+        "pinyin" : "dong guan shi"
+      },
+      {
+        "name" : "东营市",
+        "pinyin" : "dong ying shi"
+      }
+    ]
+  },
+  {
+    "E" : [
+      {
+        "name" : "鄂尔多斯市",
+        "pinyin" : "e er duo si shi"
+      },
+      {
+        "name" : "恩施土家族苗族自治州",
+        "pinyin" : "en shi tu jia zu miao zu zi zhi zhou"
+      },
+      {
+        "name" : "鄂州市",
+        "pinyin" : "e zhou shi"
+      }
+    ]
+  },
+  {
+    "F" : [
+      {
+        "name" : "防城港市",
+        "pinyin" : "fang cheng gang shi"
+      },
+      {
+        "name" : "佛山市",
+        "pinyin" : "fu shan shi"
+      },
+      {
+        "name" : "抚顺市",
+        "pinyin" : "fu shun shi"
+      },
+      {
+        "name" : "阜新市",
+        "pinyin" : "fu xin shi"
+      },
+      {
+        "name" : "阜阳市",
+        "pinyin" : "fu yang shi"
+      },
+      {
+        "name" : "福州市",
+        "pinyin" : "fu zhou shi"
+      },
+      {
+        "name" : "抚州市",
+        "pinyin" : "fu zhou shi"
+      }
+    ]
+  },
+  {
+    "G" : [
+      {
+        "name" : "甘南藏族自治州",
+        "pinyin" : "gan nan cang zu zi zhi zhou"
+      },
+      {
+        "name" : "赣州市",
+        "pinyin" : "gan zhou shi"
+      },
+      {
+        "name" : "甘孜藏族自治州",
+        "pinyin" : "gan zi cang zu zi zhi zhou"
+      },
+      {
+        "name" : "高雄市",
+        "pinyin" : "gao xiong shi"
+      },
+      {
+        "name" : "广安市",
+        "pinyin" : "guang an shi"
+      },
+      {
+        "name" : "广元市",
+        "pinyin" : "guang yuan shi"
+      },
+      {
+        "name" : "广州市",
+        "pinyin" : "guang zhou shi"
+      },
+      {
+        "name" : "贵港市",
+        "pinyin" : "gui gang shi"
+      },
+      {
+        "name" : "桂林市",
+        "pinyin" : "gui lin shi"
+      },
+      {
+        "name" : "贵阳市",
+        "pinyin" : "gui yang shi"
+      },
+      {
+        "name" : "果洛藏族自治州",
+        "pinyin" : "guo luo cang zu zi zhi zhou"
+      },
+      {
+        "name" : "固原市",
+        "pinyin" : "gu yuan shi"
+      }
+    ]
+  },
+  {
+    "H" : [
+      {
+        "name" : "哈尔滨市",
+        "pinyin" : "ha er bin shi"
+      },
+      {
+        "name" : "海北藏族自治州",
+        "pinyin" : "hai bei cang zu zi zhi zhou"
+      },
+      {
+        "name" : "海东市",
+        "pinyin" : "hai dong shi"
+      },
+      {
+        "name" : "海口市",
+        "pinyin" : "hai kou shi"
+      },
+      {
+        "name" : "海南藏族自治州",
+        "pinyin" : "hai nan cang zu zi zhi zhou"
+      },
+      {
+        "name" : "海西蒙古族藏族自治州",
+        "pinyin" : "hai xi meng gu zu cang zu zi zhi zhou"
+      },
+      {
+        "name" : "哈密市",
+        "pinyin" : "ha mi shi"
+      },
+      {
+        "name" : "邯郸市",
+        "pinyin" : "han dan shi"
+      },
+      {
+        "name" : "杭州市",
+        "pinyin" : "hang zhou shi"
+      },
+      {
+        "name" : "汉中市",
+        "pinyin" : "han zhong shi"
+      },
+      {
+        "name" : "鹤壁市",
+        "pinyin" : "he bi shi"
+      },
+      {
+        "name" : "河池市",
+        "pinyin" : "he chi shi"
+      },
+      {
+        "name" : "合肥市",
+        "pinyin" : "he fei shi"
+      },
+      {
+        "name" : "鹤岗市",
+        "pinyin" : "he gang shi"
+      },
+      {
+        "name" : "黑河市",
+        "pinyin" : "hei he shi"
+      },
+      {
+        "name" : "衡水市",
+        "pinyin" : "heng shui shi"
+      },
+      {
+        "name" : "衡阳市",
+        "pinyin" : "heng yang shi"
+      },
+      {
+        "name" : "和田地区",
+        "pinyin" : "he tian de qu"
+      },
+      {
+        "name" : "河源市",
+        "pinyin" : "he yuan shi"
+      },
+      {
+        "name" : "菏泽市",
+        "pinyin" : "he ze shi"
+      },
+      {
+        "name" : "贺州市",
+        "pinyin" : "he zhou shi"
+      },
+      {
+        "name" : "红河哈尼族彝族自治州",
+        "pinyin" : "hong he ha ni zu yi zu zi zhi zhou"
+      },
+      {
+        "name" : "淮安市",
+        "pinyin" : "huai an shi"
+      },
+      {
+        "name" : "淮北市",
+        "pinyin" : "huai bei shi"
+      },
+      {
+        "name" : "怀化市",
+        "pinyin" : "huai hua shi"
+      },
+      {
+        "name" : "淮南市",
+        "pinyin" : "huai nan shi"
+      },
+      {
+        "name" : "黄冈市",
+        "pinyin" : "huang gang shi"
+      },
+      {
+        "name" : "黄南藏族自治州",
+        "pinyin" : "huang nan cang zu zi zhi zhou"
+      },
+      {
+        "name" : "黄山市",
+        "pinyin" : "huang shan shi"
+      },
+      {
+        "name" : "黄石市",
+        "pinyin" : "huang shi shi"
+      },
+      {
+        "name" : "呼和浩特市",
+        "pinyin" : "hu he hao te shi"
+      },
+      {
+        "name" : "惠州市",
+        "pinyin" : "hui zhou shi"
+      },
+      {
+        "name" : "葫芦岛市",
+        "pinyin" : "hu lu dao shi"
+      },
+      {
+        "name" : "呼伦贝尔市",
+        "pinyin" : "hu lun bei er shi"
+      },
+      {
+        "name" : "湖州市",
+        "pinyin" : "hu zhou shi"
+      }
+    ]
+  },
+  {
+    "J" : [
+      {
+        "name" : "佳木斯市",
+        "pinyin" : "jia mu si shi"
+      },
+      {
+        "name" : "江门市",
+        "pinyin" : "jiang men shi"
+      },
+      {
+        "name" : "吉安市",
+        "pinyin" : "ji an shi"
+      },
+      {
+        "name" : "焦作市",
+        "pinyin" : "jiao zuo shi"
+      },
+      {
+        "name" : "嘉兴市",
+        "pinyin" : "jia xing shi"
+      },
+      {
+        "name" : "嘉义市",
+        "pinyin" : "jia yi shi"
+      },
+      {
+        "name" : "嘉峪关市",
+        "pinyin" : "jia yu guan shi"
+      },
+      {
+        "name" : "揭阳市",
+        "pinyin" : "jie yang shi"
+      },
+      {
+        "name" : "吉林市",
+        "pinyin" : "ji lin shi"
+      },
+      {
+        "name" : "基隆市",
+        "pinyin" : "ji long shi"
+      },
+      {
+        "name" : "济南市",
+        "pinyin" : "ji nan shi"
+      },
+      {
+        "name" : "金昌市",
+        "pinyin" : "jin chang shi"
+      },
+      {
+        "name" : "晋城市",
+        "pinyin" : "jin cheng shi"
+      },
+      {
+        "name" : "景德镇市",
+        "pinyin" : "jing de zhen shi"
+      },
+      {
+        "name" : "荆门市",
+        "pinyin" : "jing men shi"
+      },
+      {
+        "name" : "荆州市",
+        "pinyin" : "jing zhou shi"
+      },
+      {
+        "name" : "金华市",
+        "pinyin" : "jin hua shi"
+      },
+      {
+        "name" : "济宁市",
+        "pinyin" : "ji ning shi"
+      },
+      {
+        "name" : "晋中市",
+        "pinyin" : "jin zhong shi"
+      },
+      {
+        "name" : "锦州市",
+        "pinyin" : "jin zhou shi"
+      },
+      {
+        "name" : "九江市",
+        "pinyin" : "jiu jiang shi"
+      },
+      {
+        "name" : "酒泉市",
+        "pinyin" : "jiu quan shi"
+      },
+      {
+        "name" : "鸡西市",
+        "pinyin" : "ji xi shi"
+      }
+    ]
+  },
+  {
+    "K" : [
+      {
+        "name" : "开封市",
+        "pinyin" : "kai feng shi"
+      },
+      {
+        "name" : "喀什地区",
+        "pinyin" : "ka shen de qu"
+      },
+      {
+        "name" : "克拉玛依市",
+        "pinyin" : "ke la ma yi shi"
+      },
+      {
+        "name" : "克孜勒苏柯尔克孜自治州",
+        "pinyin" : "ke zi lei su ke er ke zi zi zhi zhou"
+      },
+      {
+        "name" : "昆明市",
+        "pinyin" : "kun ming shi"
+      }
+    ]
+  },
+  {
+    "L" : [
+      {
+        "name" : "来宾市",
+        "pinyin" : "lai bin shi"
+      },
+      {
+        "name" : "廊坊市",
+        "pinyin" : "lang fang shi"
+      },
+      {
+        "name" : "兰州市",
+        "pinyin" : "lan zhou shi"
+      },
+      {
+        "name" : "拉萨市",
+        "pinyin" : "la sa shi"
+      },
+      {
+        "name" : "乐山市",
+        "pinyin" : "le shan shi"
+      },
+      {
+        "name" : "凉山彝族自治州",
+        "pinyin" : "liang shan yi zu zi zhi zhou"
+      },
+      {
+        "name" : "连云港市",
+        "pinyin" : "lian yun gang shi"
+      },
+      {
+        "name" : "聊城市",
+        "pinyin" : "liao cheng shi"
+      },
+      {
+        "name" : "辽阳市",
+        "pinyin" : "liao yang shi"
+      },
+      {
+        "name" : "辽源市",
+        "pinyin" : "liao yuan shi"
+      },
+      {
+        "name" : "丽江市",
+        "pinyin" : "li jiang shi"
+      },
+      {
+        "name" : "临沧市",
+        "pinyin" : "lin cang shi"
+      },
+      {
+        "name" : "临汾市",
+        "pinyin" : "lin fen shi"
+      },
+      {
+        "name" : "临夏回族自治州",
+        "pinyin" : "lin xia hui zu zi zhi zhou"
+      },
+      {
+        "name" : "临沂市",
+        "pinyin" : "lin yi shi"
+      },
+      {
+        "name" : "林芝市",
+        "pinyin" : "lin zhi shi"
+      },
+      {
+        "name" : "丽水市",
+        "pinyin" : "li shui shi"
+      },
+      {
+        "name" : "六安市",
+        "pinyin" : "liu an shi"
+      },
+      {
+        "name" : "六盘水市",
+        "pinyin" : "liu pan shui shi"
+      },
+      {
+        "name" : "柳州市",
+        "pinyin" : "liu zhou shi"
+      },
+      {
+        "name" : "陇南市",
+        "pinyin" : "long nan shi"
+      },
+      {
+        "name" : "龙岩市",
+        "pinyin" : "long yan shi"
+      },
+      {
+        "name" : "娄底市",
+        "pinyin" : "lou di shi"
+      },
+      {
+        "name" : "吕梁市",
+        "pinyin" : "lu liang shi"
+      },
+      {
+        "name" : "漯河市",
+        "pinyin" : "luo he shi"
+      },
+      {
+        "name" : "洛阳市",
+        "pinyin" : "luo yang shi"
+      },
+      {
+        "name" : "泸州市",
+        "pinyin" : "lu zhou shi"
+      }
+    ]
+  },
+  {
+    "M" : [
+      {
+        "name" : "马鞍山市",
+        "pinyin" : "ma an shan shi"
+      },
+      {
+        "name" : "茂名市",
+        "pinyin" : "mao ming shi"
+      },
+      {
+        "name" : "眉山市",
+        "pinyin" : "mei shan shi"
+      },
+      {
+        "name" : "梅州市",
+        "pinyin" : "mei zhou shi"
+      },
+      {
+        "name" : "绵阳市",
+        "pinyin" : "mian yang shi"
+      },
+      {
+        "name" : "牡丹江市",
+        "pinyin" : "mu dan jiang shi"
+      }
+    ]
+  },
+  {
+    "N" : [
+      {
+        "name" : "南昌市",
+        "pinyin" : "nan chang shi"
+      },
+      {
+        "name" : "南充市",
+        "pinyin" : "nan chong shi"
+      },
+      {
+        "name" : "南京市",
+        "pinyin" : "nan jing shi"
+      },
+      {
+        "name" : "南宁市",
+        "pinyin" : "nan ning shi"
+      },
+      {
+        "name" : "南平市",
+        "pinyin" : "nan ping shi"
+      },
+      {
+        "name" : "南通市",
+        "pinyin" : "nan tong shi"
+      },
+      {
+        "name" : "南阳市",
+        "pinyin" : "nan yang shi"
+      },
+      {
+        "name" : "那曲市",
+        "pinyin" : "na qu shi"
+      },
+      {
+        "name" : "内江市",
+        "pinyin" : "nei jiang shi"
+      },
+      {
+        "name" : "宁波市",
+        "pinyin" : "ning bo shi"
+      },
+      {
+        "name" : "宁德市",
+        "pinyin" : "ning de shi"
+      },
+      {
+        "name" : "怒江傈僳族自治州",
+        "pinyin" : "nu jiang li su zu zi zhi zhou"
+      }
+    ]
+  },
+  {
+    "P" : [
+      {
+        "name" : "盘锦市",
+        "pinyin" : "pan jin shi"
+      },
+      {
+        "name" : "攀枝花市",
+        "pinyin" : "pan zhi hua shi"
+      },
+      {
+        "name" : "平顶山市",
+        "pinyin" : "ping ding shan shi"
+      },
+      {
+        "name" : "平凉市",
+        "pinyin" : "ping liang shi"
+      },
+      {
+        "name" : "萍乡市",
+        "pinyin" : "ping xiang shi"
+      },
+      {
+        "name" : "普洱市",
+        "pinyin" : "pu er shi"
+      },
+      {
+        "name" : "莆田市",
+        "pinyin" : "pu tian shi"
+      },
+      {
+        "name" : "濮阳市",
+        "pinyin" : "pu yang shi"
+      }
+    ]
+  },
+  {
+    "Q" : [
+      {
+        "name" : "黔东南苗族侗族自治州",
+        "pinyin" : "qian dong nan miao zu dong zu zi zhi zhou"
+      },
+      {
+        "name" : "黔南布依族苗族自治州",
+        "pinyin" : "qian nan bu yi zu miao zu zi zhi zhou"
+      },
+      {
+        "name" : "黔西南布依族苗族自治州",
+        "pinyin" : "qian xi nan bu yi zu miao zu zi zhi zhou"
+      },
+      {
+        "name" : "青岛市",
+        "pinyin" : "qing dao shi"
+      },
+      {
+        "name" : "庆阳市",
+        "pinyin" : "qing yang shi"
+      },
+      {
+        "name" : "清远市",
+        "pinyin" : "qing yuan shi"
+      },
+      {
+        "name" : "秦皇岛市",
+        "pinyin" : "qin huang dao shi"
+      },
+      {
+        "name" : "钦州市",
+        "pinyin" : "qin zhou shi"
+      },
+      {
+        "name" : "齐齐哈尔市",
+        "pinyin" : "qi qi ha er shi"
+      },
+      {
+        "name" : "七台河市",
+        "pinyin" : "qi tai he shi"
+      },
+      {
+        "name" : "泉州市",
+        "pinyin" : "quan zhou shi"
+      },
+      {
+        "name" : "曲靖市",
+        "pinyin" : "qu jing shi"
+      },
+      {
+        "name" : "衢州市",
+        "pinyin" : "qu zhou shi"
+      }
+    ]
+  },
+  {
+    "R" : [
+      {
+        "name" : "日喀则市",
+        "pinyin" : "ri ka ze shi"
+      },
+      {
+        "name" : "日照市",
+        "pinyin" : "ri zhao shi"
+      }
+    ]
+  },
+  {
+    "S" : [
+      {
+        "name" : "三门峡市",
+        "pinyin" : "san men xia shi"
+      },
+      {
+        "name" : "三明市",
+        "pinyin" : "san ming shi"
+      },
+      {
+        "name" : "三沙市",
+        "pinyin" : "san sha shi"
+      },
+      {
+        "name" : "三亚市",
+        "pinyin" : "san ya shi"
+      },
+      {
+        "name" : "厦门市",
+        "pinyin" : "sha men shi"
+      },
+      {
+        "name" : "上海市",
+        "pinyin" : "shang hai shi"
+      },
+      {
+        "name" : "商洛市",
+        "pinyin" : "shang luo shi"
+      },
+      {
+        "name" : "商丘市",
+        "pinyin" : "shang qiu shi"
+      },
+      {
+        "name" : "上饶市",
+        "pinyin" : "shang rao shi"
+      },
+      {
+        "name" : "山南市",
+        "pinyin" : "shan nan shi"
+      },
+      {
+        "name" : "汕头市",
+        "pinyin" : "shan tou shi"
+      },
+      {
+        "name" : "汕尾市",
+        "pinyin" : "shan wei shi"
+      },
+      {
+        "name" : "韶关市",
+        "pinyin" : "shao guan shi"
+      },
+      {
+        "name" : "绍兴市",
+        "pinyin" : "shao xing shi"
+      },
+      {
+        "name" : "邵阳市",
+        "pinyin" : "shao yang shi"
+      },
+      {
+        "name" : "沈阳市",
+        "pinyin" : "shen yang shi"
+      },
+      {
+        "name" : "深圳市",
+        "pinyin" : "shen zhen shi"
+      },
+      {
+        "name" : "石家庄市",
+        "pinyin" : "shi jia zhuang shi"
+      },
+      {
+        "name" : "十堰市",
+        "pinyin" : "shi yan shi"
+      },
+      {
+        "name" : "石嘴山市",
+        "pinyin" : "shi zui shan shi"
+      },
+      {
+        "name" : "双鸭山市",
+        "pinyin" : "shuang ya shan shi"
+      },
+      {
+        "name" : "朔州市",
+        "pinyin" : "shuo zhou shi"
+      },
+      {
+        "name" : "四平市",
+        "pinyin" : "si ping shi"
+      },
+      {
+        "name" : "松原市",
+        "pinyin" : "song yuan shi"
+      },
+      {
+        "name" : "绥化市",
+        "pinyin" : "sui hua shi"
+      },
+      {
+        "name" : "遂宁市",
+        "pinyin" : "sui ning shi"
+      },
+      {
+        "name" : "随州市",
+        "pinyin" : "sui zhou shi"
+      },
+      {
+        "name" : "宿迁市",
+        "pinyin" : "su qian shi"
+      },
+      {
+        "name" : "苏州市",
+        "pinyin" : "su zhou shi"
+      },
+      {
+        "name" : "宿州市",
+        "pinyin" : "su zhou shi"
+      }
+    ]
+  },
+  {
+    "T" : [
+      {
+        "name" : "塔城地区",
+        "pinyin" : "ta cheng de qu"
+      },
+      {
+        "name" : "泰安市",
+        "pinyin" : "tai an shi"
+      },
+      {
+        "name" : "台北市",
+        "pinyin" : "tai bei shi"
+      },
+      {
+        "name" : "台南市",
+        "pinyin" : "tai nan shi"
+      },
+      {
+        "name" : "太原市",
+        "pinyin" : "tai yuan shi"
+      },
+      {
+        "name" : "台中市",
+        "pinyin" : "tai zhong shi"
+      },
+      {
+        "name" : "泰州市",
+        "pinyin" : "tai zhou shi"
+      },
+      {
+        "name" : "台州市",
+        "pinyin" : "tai zhou shi"
+      },
+      {
+        "name" : "唐山市",
+        "pinyin" : "tang shan shi"
+      },
+      {
+        "name" : "桃园市",
+        "pinyin" : "tao yuan shi"
+      },
+      {
+        "name" : "天津市",
+        "pinyin" : "tian jin shi"
+      },
+      {
+        "name" : "天水市",
+        "pinyin" : "tian shui shi"
+      },
+      {
+        "name" : "铁岭市",
+        "pinyin" : "tie ling shi"
+      },
+      {
+        "name" : "铜川市",
+        "pinyin" : "tong chuan shi"
+      },
+      {
+        "name" : "通化市",
+        "pinyin" : "tong hua shi"
+      },
+      {
+        "name" : "通辽市",
+        "pinyin" : "tong liao shi"
+      },
+      {
+        "name" : "铜陵市",
+        "pinyin" : "tong ling shi"
+      },
+      {
+        "name" : "铜仁市",
+        "pinyin" : "tong ren shi"
+      },
+      {
+        "name" : "吐鲁番市",
+        "pinyin" : "tu lu fan shi"
+      }
+    ]
+  },
+  {
+    "W" : [
+      {
+        "name" : "潍坊市",
+        "pinyin" : "wei fang shi"
+      },
+      {
+        "name" : "威海市",
+        "pinyin" : "wei hai shi"
+      },
+      {
+        "name" : "渭南市",
+        "pinyin" : "wei nan shi"
+      },
+      {
+        "name" : "文山壮族苗族自治州",
+        "pinyin" : "wen shan zhuang zu miao zu zi zhi zhou"
+      },
+      {
+        "name" : "温州市",
+        "pinyin" : "wen zhou shi"
+      },
+      {
+        "name" : "乌海市",
+        "pinyin" : "wu hai shi"
+      },
+      {
+        "name" : "武汉市",
+        "pinyin" : "wu han shi"
+      },
+      {
+        "name" : "芜湖市",
+        "pinyin" : "wu hu shi"
+      },
+      {
+        "name" : "乌兰察布市",
+        "pinyin" : "wu lan cha bu shi"
+      },
+      {
+        "name" : "乌鲁木齐市",
+        "pinyin" : "wu lu mu qi shi"
+      },
+      {
+        "name" : "武威市",
+        "pinyin" : "wu wei shi"
+      },
+      {
+        "name" : "无锡市",
+        "pinyin" : "wu xi shi"
+      },
+      {
+        "name" : "吴忠市",
+        "pinyin" : "wu zhong shi"
+      },
+      {
+        "name" : "梧州市",
+        "pinyin" : "wu zhou shi"
+      }
+    ]
+  },
+  {
+    "X" : [
+      {
+        "name" : "香港行政区",
+        "pinyin" : "xiang gang xing zheng qu"
+      },
+      {
+        "name" : "湘潭市",
+        "pinyin" : "xiang tan shi"
+      },
+      {
+        "name" : "湘西土家族苗族自治州",
+        "pinyin" : "xiang xi tu jia zu miao zu zi zhi zhou"
+      },
+      {
+        "name" : "襄阳市",
+        "pinyin" : "xiang yang shi"
+      },
+      {
+        "name" : "咸宁市",
+        "pinyin" : "xian ning shi"
+      },
+      {
+        "name" : "西安市",
+        "pinyin" : "xi an shi"
+      },
+      {
+        "name" : "咸阳市",
+        "pinyin" : "xian yang shi"
+      },
+      {
+        "name" : "孝感市",
+        "pinyin" : "xiao gan shi"
+      },
+      {
+        "name" : "锡林郭勒盟",
+        "pinyin" : "xi lin guo lei meng"
+      },
+      {
+        "name" : "新北市",
+        "pinyin" : "xin bei shi"
+      },
+      {
+        "name" : "兴安盟",
+        "pinyin" : "xing an meng"
+      },
+      {
+        "name" : "邢台市",
+        "pinyin" : "xing tai shi"
+      },
+      {
+        "name" : "西宁市",
+        "pinyin" : "xi ning shi"
+      },
+      {
+        "name" : "新乡市",
+        "pinyin" : "xin xiang shi"
+      },
+      {
+        "name" : "信阳市",
+        "pinyin" : "xin yang shi"
+      },
+      {
+        "name" : "新余市",
+        "pinyin" : "xin yu shi"
+      },
+      {
+        "name" : "忻州市",
+        "pinyin" : "xin zhou shi"
+      },
+      {
+        "name" : "新竹市",
+        "pinyin" : "xin zhu shi"
+      },
+      {
+        "name" : "西双版纳傣族自治州",
+        "pinyin" : "xi shuang ban na dai zu zi zhi zhou"
+      },
+      {
+        "name" : "宣城市",
+        "pinyin" : "xuan cheng shi"
+      },
+      {
+        "name" : "许昌市",
+        "pinyin" : "xu chang shi"
+      },
+      {
+        "name" : "徐州市",
+        "pinyin" : "xu zhou shi"
+      }
+    ]
+  },
+  {
+    "Y" : [
+      {
+        "name" : "雅安市",
+        "pinyin" : "ya an shi"
+      },
+      {
+        "name" : "延安市",
+        "pinyin" : "yan an shi"
+      },
+      {
+        "name" : "延边朝鲜族自治州",
+        "pinyin" : "yan bian chao xian zu zi zhi zhou"
+      },
+      {
+        "name" : "盐城市",
+        "pinyin" : "yan cheng shi"
+      },
+      {
+        "name" : "阳江市",
+        "pinyin" : "yang jiang shi"
+      },
+      {
+        "name" : "阳泉市",
+        "pinyin" : "yang quan shi"
+      },
+      {
+        "name" : "扬州市",
+        "pinyin" : "yang zhou shi"
+      },
+      {
+        "name" : "烟台市",
+        "pinyin" : "yan tai shi"
+      },
+      {
+        "name" : "宜宾市",
+        "pinyin" : "yi bin shi"
+      },
+      {
+        "name" : "宜昌市",
+        "pinyin" : "yi chang shi"
+      },
+      {
+        "name" : "伊春市",
+        "pinyin" : "yi chun shi"
+      },
+      {
+        "name" : "宜春市",
+        "pinyin" : "yi chun shi"
+      },
+      {
+        "name" : "伊犁哈萨克自治州",
+        "pinyin" : "yi li ha sa ke zi zhi zhou"
+      },
+      {
+        "name" : "银川市",
+        "pinyin" : "yin chuan shi"
+      },
+      {
+        "name" : "营口市",
+        "pinyin" : "ying kou shi"
+      },
+      {
+        "name" : "鹰潭市",
+        "pinyin" : "ying tan shi"
+      },
+      {
+        "name" : "益阳市",
+        "pinyin" : "yi yang shi"
+      },
+      {
+        "name" : "永州市",
+        "pinyin" : "yong zhou shi"
+      },
+      {
+        "name" : "岳阳市",
+        "pinyin" : "yue yang shi"
+      },
+      {
+        "name" : "玉林市",
+        "pinyin" : "yu lin shi"
+      },
+      {
+        "name" : "榆林市",
+        "pinyin" : "yu lin shi"
+      },
+      {
+        "name" : "运城市",
+        "pinyin" : "yun cheng shi"
+      },
+      {
+        "name" : "云浮市",
+        "pinyin" : "yun fu shi"
+      },
+      {
+        "name" : "玉树藏族自治州",
+        "pinyin" : "yu shu cang zu zi zhi zhou"
+      },
+      {
+        "name" : "玉溪市",
+        "pinyin" : "yu xi shi"
+      }
+    ]
+  },
+  {
+    "Z" : [
+      {
+        "name" : "枣庄市",
+        "pinyin" : "zao zhuang shi"
+      },
+      {
+        "name" : "长春市",
+        "pinyin" : "zhang chun shi"
+      },
+      {
+        "name" : "张家界市",
+        "pinyin" : "zhang jia jie shi"
+      },
+      {
+        "name" : "张家口市",
+        "pinyin" : "zhang jia kou shi"
+      },
+      {
+        "name" : "长沙市",
+        "pinyin" : "zhang sha shi"
+      },
+      {
+        "name" : "张掖市",
+        "pinyin" : "zhang ye shi"
+      },
+      {
+        "name" : "长治市",
+        "pinyin" : "zhang zhi shi"
+      },
+      {
+        "name" : "漳州市",
+        "pinyin" : "zhang zhou shi"
+      },
+      {
+        "name" : "湛江市",
+        "pinyin" : "zhan jiang shi"
+      },
+      {
+        "name" : "肇庆市",
+        "pinyin" : "zhao qing shi"
+      },
+      {
+        "name" : "昭通市",
+        "pinyin" : "zhao tong shi"
+      },
+      {
+        "name" : "郑州市",
+        "pinyin" : "zheng zhou shi"
+      },
+      {
+        "name" : "镇江市",
+        "pinyin" : "zhen jiang shi"
+      },
+      {
+        "name" : "中山市",
+        "pinyin" : "zhong shan shi"
+      },
+      {
+        "name" : "中卫市",
+        "pinyin" : "zhong wei shi"
+      },
+      {
+        "name" : "周口市",
+        "pinyin" : "zhou kou shi"
+      },
+      {
+        "name" : "舟山市",
+        "pinyin" : "zhou shan shi"
+      },
+      {
+        "name" : "珠海市",
+        "pinyin" : "zhu hai shi"
+      },
+      {
+        "name" : "驻马店市",
+        "pinyin" : "zhu ma dian shi"
+      },
+      {
+        "name" : "株洲市",
+        "pinyin" : "zhu zhou shi"
+      },
+      {
+        "name" : "淄博市",
+        "pinyin" : "zi bo shi"
+      },
+      {
+        "name" : "自贡市",
+        "pinyin" : "zi gong shi"
+      },
+      {
+        "name" : "资阳市",
+        "pinyin" : "zi yang shi"
+      },
+      {
+        "name" : "遵义市",
+        "pinyin" : "zun yi shi"
+      }
+    ]
+  }
+]
